@@ -1,1 +1,7 @@
-Uppgifter
+Uppgifter:
+
+•Visa resultatet på sidan (currentCount).
+•Lägg till en knapp för + (addera).
+•Lägg till en knapp för - (subtrahera).
+•Lägg till en knapp för * (multiplicera).
+•Lägg till en knapp för / (dividera).
